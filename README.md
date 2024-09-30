@@ -2,7 +2,7 @@
 
 目錄：
 - 前情提要
-- 各層網路架構(Conv1, Conv2_bn, Fusion, Fuzzy, Defuzzy)
+- 各層網路架構之硬體實現設計(Conv1, Conv2_bn, Fusion, Fuzzy, Defuzzy)
 - 成果展示
 
 ## 1. 前情提要
