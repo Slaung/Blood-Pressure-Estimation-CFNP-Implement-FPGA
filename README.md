@@ -9,3 +9,4 @@
 
 ## 1. 前情提要
 FPGA所實現的網路架構如下圖所示：
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure1.png)
