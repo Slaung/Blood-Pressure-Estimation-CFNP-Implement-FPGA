@@ -9,6 +9,9 @@
 FPGA所實現的網路架構如下圖所示：
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure1.png)
 
+- Conv1_top、Conv2_BN_top為循序處理。
+- Fusion_top、Fuzzy_top、Defuzzy_top為平行處理。
+
 ## 2. 各層網路架構之硬體實現設計(Conv1, Conv2_bn, Fusion, Fuzzy, Defuzzy)
 1. Conv1_PE
 
