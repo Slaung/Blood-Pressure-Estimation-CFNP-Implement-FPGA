@@ -35,13 +35,24 @@ FPGA所實現的網路架構如下圖所示：
 
 6. FusionCAP_PE
 
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure7.png)
+
 7. FusionCAP_top
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure8.png)
 
 8. Fuzzy_Rule_PE
 
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure9.png)
+
 9. Fuzzy_Rule_top
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure10.png)
 
 10. Defuzzification_PE
 
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure11.png)
+
 11. Defuzzification_top
    
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure12.png)
