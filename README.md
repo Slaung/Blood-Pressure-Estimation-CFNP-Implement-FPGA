@@ -45,6 +45,18 @@ python執行結果：
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure6.png)
 
+模擬結果：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure16.png)
+
+python執行結果：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure17.png)
+
+資源使用率：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure18.png)
+
 6. FusionCAP_PE
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure7.png)
@@ -52,6 +64,18 @@ python執行結果：
 7. FusionCAP_top
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure8.png)
+
+模擬結果：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure19.png)
+
+python執行結果：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure20.png)
+
+資源使用率：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure21.png)
 
 8. Fuzzy_Rule_PE
 
@@ -61,6 +85,10 @@ python執行結果：
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure10.png)
 
+模擬、python執行結果和資源使用率：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure22.png)
+
 10. Defuzzification_PE
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure11.png)
@@ -68,3 +96,7 @@ python執行結果：
 11. Defuzzification_top
    
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure12.png)
+
+模擬、python執行結果和資源使用率：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure23.png)
