@@ -2,8 +2,8 @@
 
 目錄：
 - 系統架構
-- 各層網路架構之硬體實現設計(Conv1, Conv2_bn, Fusion, Fuzzy, Defuzzification)
-- 成果展示
+- 各層網路架構之硬體實現設計與結果(Conv1, Conv2_bn, Fusion, Fuzzy, Defuzzification)
+- 整合結果
 
 ## 1. 系統架構
 FPGA所實現的網路架構如下圖所示：
@@ -100,3 +100,13 @@ python執行結果：
 模擬、python執行結果和資源使用率：
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure23.png)
+
+12. CFNP整合結果
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure24.png)
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure25.png)
+
+資源使用率：
+
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure26.png)
