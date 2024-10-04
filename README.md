@@ -21,6 +21,15 @@ FPGA所實現的網路架構如下圖所示：
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure3.png)
 
+模擬結果：
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure13.png)
+
+python執行結果：
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure14.png)
+
+資源使用率：
+![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure15.png)
+
 3. Conv2_PE
 
 ![image](https://github.com/Slaung/Blood-Pressure-Estimation-CFNP-Implement-FPGA/blob/main/Figure/Figure4.png)
