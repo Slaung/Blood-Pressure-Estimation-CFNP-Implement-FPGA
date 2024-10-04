@@ -1,5 +1,12 @@
 # 基於血壓預測之卷積模糊神經網路，實現於FPGA進行加速運算
 
+- Vivado_CFNP 為PL端，包含每層網路IP、AXI總線和CFNP整合網路。
+
+- Vitis_test.c 為PS端，主要負責PL端輸入與輸出。
+  - input_data.coe 輸入資料
+  - Test_output 輸出資料
+
+
 目錄：
 - 系統架構
 - 各層網路架構之硬體實現設計與結果(Conv1, Conv2_bn, Fusion, Fuzzy, Defuzzification)
