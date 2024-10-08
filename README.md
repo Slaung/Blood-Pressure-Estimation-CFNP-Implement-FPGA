@@ -1,5 +1,7 @@
 # 基於血壓預測之卷積模糊神經網路，實現於FPGA進行加速運算
 
+- 實現FPGA板子: ZedBoard Zynq-7000
+
 - Vivado_CFNP 為PL端，包含每層網路IP、AXI總線和CFNP整合網路。
 
 - Vitis_test.c 為PS端，主要負責PL端輸入與輸出。
